@@ -83,51 +83,51 @@ Main Object: Car Interior
         Name 4 nouns you'll find on the [Sub Object]
             1) paddle shifters
             2) 'cruise control' controls
-            3) 
-            4) 
+            3) radio controls
+            4) horn
         Name 2 actions that the [Sub Object] can do:
             1) adjust cruise control settings.
-            2)
+            2) adjust radio settings.
         
     Sub Object: Instrument Cluster
         Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+            1) odometer 
+            2) speedometer
+            3) gas meter
+            4) turn signal
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) display speed.
+            2) display distance traveled.
+            3) display gas level. 
     
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) air conditioner    
+            2) fan
+            3) heater
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) turn on air conditioner.
+            2) turn on fan.
+            3) turn on heater.
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) volume control
+            2) channel control
+            3) display
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) raise volume
+            2) change source
+            3) show song title
 
     Sub Object: Seat 
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) seat belt
+            2) back adjustment
+            3) head rest
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) slide forward
+            2) lean back
 */
 
 /*
