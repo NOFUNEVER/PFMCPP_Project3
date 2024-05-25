@@ -176,6 +176,7 @@ Thing: Car Wash
     These are specific objects or amounts. 
     
     In C++ terms this means to I want you to avoid using 'bool' 
+
     (has a) as a member variable type.
     Instead, prefer the other primitive types.
 
@@ -196,53 +197,53 @@ Part 1b - Step 2: Assignment
         c) pick properties that can eventually be represented with 
         'int float double bool char std::string'.
 
-Thing 1)
+Thing 1)    Cow
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)     number of spots
+    2)     age
+    3)     weight
+    4)     type
+    5)     color
 3 things it can do:
-    1)
-    2)
-    3)
+    1)     moo
+    2)     eat grass
+    3)     produce milk
 
-Thing 2)
+Thing 2)     Daisy
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)     number of petals
+    2)     color
+    3)     height
+    4)     smell
+    5)     number of leaves
 3 things it can do:
-    1)
-    2)
-    3)
+    1)     bloom
+    2)     photosynthesize
+    3)     pollinate
 
-Thing 3)
+Thing 3)     lamp
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)     material
+    2)     brightness
+    3)     shape
+    4)     color
+    5)     size
 3 things it can do:
-    1)
-    2)
-    3)
+    1)     illuminate
+    2)     change angle
+    3)     change brightness
 
-Thing 4)
+Thing 4)     pencil
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1)     length
+    2)     amount of eraser remaining
+    3)     sharpness of lead
+    4)     circumfrence
+    5)     color
 3 things it can do:
-    1)
-    2)
-    3)
+    1)     draw
+    2)     erase
+    3)     break tip
 */
 
 /*
