@@ -199,11 +199,11 @@ Part 1b - Step 2: Assignment
 
 Thing 1)    Cow
 5 properties:
-    1)     number of spots
-    2)     age
-    3)     weight
-    4)     type
-    5)     color
+    1)     number of spots (int)
+    2)     age (int)
+    3)     weight (float)
+    4)     type   (std::string)
+    5)     color (std::string)
 3 things it can do:
     1)     moo
     2)     eat grass
@@ -211,23 +211,23 @@ Thing 1)    Cow
 
 Thing 2)     Daisy
 5 properties:
-    1)     number of petals
-    2)     color
-    3)     height
-    4)     smell
-    5)     number of leaves
+    1)     number of petals (int)
+    2)     color (std::string)
+    3)     height (float)
+    4)     smell (std::string)
+    5)     number of leaves (int)
 3 things it can do:
-    1)     bloom
+    1)     bloom 
     2)     photosynthesize
     3)     pollinate
 
 Thing 3)     lamp
 5 properties:
-    1)     material
-    2)     brightness
-    3)     shape
-    4)     color
-    5)     size
+    1)     material (std::string)
+    2)     brightness (float)
+    3)     shape (std::string)
+    4)     color (std::string)
+    5)     size (float)
 3 things it can do:
     1)     illuminate
     2)     change angle
@@ -235,11 +235,11 @@ Thing 3)     lamp
 
 Thing 4)     pencil
 5 properties:
-    1)     length
-    2)     amount of eraser remaining
-    3)     sharpness of lead
-    4)     circumfrence
-    5)     color
+    1)     length (int)
+    2)     amount of eraser remaining (percentage) (float)
+    3)     sharpness of lead (float)
+    4)     circumfrence (float)
+    5)     color (std::string)
 3 things it can do:
     1)     draw
     2)     erase
@@ -319,6 +319,13 @@ example:
         Brightness (double)
         area in cm2 (int)
         brand (std::string)
+
+   
+
+
+
+
+
 */
 
 /*
@@ -338,17 +345,17 @@ Define an object that is made of 5 sub-objects.
     These 5 sub-objects will not be defined using Primitives, but instead will be their own UDTs 
     you'll define these 5 sub-objects in Part 1d.
 
-Thing 10)
+Thing 10) human
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) leg
+    2) arm
+    3) heart
+    4) skin
+    5) brain
 3 things it can do:
-    1)
-    2)
-    3)
+    1) jump
+    2) think
+    3) run
  */
 
  /*
